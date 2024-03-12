@@ -4,3 +4,6 @@ for i in range(0,rows):
         print("*", end='')
         print("\r")
         
+    print(a+b)
+    
+          
