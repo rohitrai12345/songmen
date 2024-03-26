@@ -63,3 +63,8 @@ values = ["Jon", 30, "KTM"]
 data = zip(keys, values)
 print(dict(data))
 
+#tuple comprehension
+data = (i for i in range(5)) # it loos like tuple comprehinsion but is actually is a generator expression
+print(data)#genertor _expression
+
+
