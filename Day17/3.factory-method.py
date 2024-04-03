@@ -16,3 +16,5 @@ p =person(32)
 print(p.age) #32
 p2=person.from_brith_year(1990)
 print(p2.age)
+
+#static method are those method which do not change the state or class
